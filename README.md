@@ -10,7 +10,7 @@ ASMR Programming – Responsive Navbar - No Talking
 I will show you how to construct a responsive navigation bar using only HTML and CSS. This tutorial is perfect for both beginners 
 and experienced developers looking to refine their web development skills and gain confidence in their abilities.
 
-YouTube tutorial: https://youtu.be/K56ZG1NQMR4
+YouTube tutorial: https://youtu.be/IeSHZ1ebqTo
 
 
 
